@@ -6,8 +6,10 @@ Follow who he's following, star what he's staring.
 - quick check target's following / starring information and copy these into your account
 
 # Usage
+```
 pip install requests
 python main.py [-a username] target
+```
 
 # Requirements:
 - python
